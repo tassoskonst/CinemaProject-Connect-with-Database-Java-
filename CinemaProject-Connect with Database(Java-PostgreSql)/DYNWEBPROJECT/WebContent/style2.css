@@ -1,0 +1,21 @@
+#banner {
+    background-color: saddlebrown;
+    height: 200px;
+    text-align: center;
+}
+ 
+h1 {
+    margin: 0px;
+    line-height: 200px;
+}
+ 
+body {
+    margin: 0px;
+    background-color: rgb(209, 162, 98);
+    	 text-align: center;
+    
+}
+ 
+.bodyText {
+    color: #5b120c;
+}

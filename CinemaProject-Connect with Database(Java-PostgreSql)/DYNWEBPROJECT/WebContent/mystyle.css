@@ -1,0 +1,12 @@
+.mycolor {color:blue}
+h1 {color:white; text-align:left; font-size:50pt; font-family:georgia; background-color:blue; letter-spacing:1.0 pt } 
+li { font-size:12pt; font-family:tahoma; background-color: #cce5ff }
+.p { font-size:25; font-family:arial; text-align:left; letter-spacing:0.5 pt }
+a:link {color:blue} 				
+a:visited {color:purple} 
+a:hover {color:white; font-style:italic}
+label {float:left;}
+legend {color:white; background-color:blue;}
+table , td { border:0px solid black; border-spacing:10px}
+table  {height: 40px;}
+table { width: 400px; } 
